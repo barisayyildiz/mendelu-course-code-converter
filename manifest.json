@@ -6,7 +6,7 @@
 		{
 			"run_at": "document_end",
 			"matches":[
-				"<all_urls>"
+				"https://teams.microsoft.com/*"
 			],
 			"js":["content.js"],
 			"all_frames":true
